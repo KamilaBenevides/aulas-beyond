@@ -30,7 +30,7 @@ export default {
         },
         {
           name: 'Kamila Benevides',
-          text: 'Turu bem?'
+          text: 'Tudo bem?'
         }
       ]
     }
